@@ -1,0 +1,40 @@
+Blizzard World, BW
+Busan Downtown, BD
+Busan MEKA Base, BM
+Busan Sanctuary, BS
+Chateau Guillard, CG
+Circuit Royal, CR
+Colosseo, CS
+Dorado, DR
+Eichenwalde, EW
+Esperanca, ER
+Gibralter, WG
+Hanamura, HM
+Havana, HV
+Hollywood, HW
+Horizon Lunar Colony, HC
+Ilios Lighthouse, IL
+Ilios Ruins, IR
+Ilios Well, IW
+Junkertown, JT
+Kanezaka, KZ
+King's Row, KR
+Lijiang Garden, LG
+Lijiang Night market, LM
+Malevento, MV
+Midtown, MT
+Nepal Sanctum, NS
+Nepal Shrine, NE
+Nepal Village, NV
+New Queen Street, NQ
+Numbani, NB
+Oasis City Center, OC
+Oasis Gardens, OG
+Oasis University, OU
+Paraiso, PI
+Paris, PR
+Petra, PT
+Rialto, RT
+Route 66, R6
+Temple of Anubis, TA
+Volskaya Industries, VS
