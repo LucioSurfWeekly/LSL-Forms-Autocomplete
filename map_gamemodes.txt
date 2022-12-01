@@ -1,0 +1,40 @@
+Blizzard World, Skirmish
+Busan Downtown, Skirmish
+Busan MEKA Base, Skirmish
+Busan Sanctuary, Skirmish
+Chateau Guillard, Deathmatch
+Circuit Royal, Deathmatch
+Colosseo, Deathmatch
+Dorado, Skirmish
+Eichenwalde, Skirmish
+Esperanca, Deathmatch
+Gibralter, Skirmish
+Hanamura, Skirmish
+Havana, Skirmish
+Hollywood, Skirmish
+Horizon Lunar Colony, Skirmish
+Ilios Lighthouse, Deathmatch
+Ilios Ruins, Deathmatch
+Ilios Well, Deathmatch
+Junkertown, Skirmish
+Kanezaka, Deathmatch
+King's Row, Skirmish
+Lijiang Garden, Deathmatch
+Lijiang Night market, Deathmatch
+Malevento, Deathmatch
+Midtown, Deathmatch
+Nepal Sanctum, Deathmatch
+Nepal Shrine, Deathmatch
+Nepal Village, Deathmatch
+New Queen Street, Deathmatch
+Numbani, Skirmish
+Oasis City Center, Deathmatch
+Oasis Gardens, Deathmatch
+Oasis University, Deathmatch
+Paraiso, Deathmatch
+Paris, Skirmish
+Petra, Deathmatch
+Rialto, Skirmish
+Route 66, Skirmish
+Temple of Anubis, Skirmish
+Volskaya Industries, Skirmish
