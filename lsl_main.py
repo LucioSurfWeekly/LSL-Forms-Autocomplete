@@ -1,6 +1,3 @@
-import sys
-
-sys.path.insert(1, 'lsl_autocomplete')
 import difflib
 from datetime import datetime
 import re
@@ -44,9 +41,9 @@ class OCREngine:
 
         # download model weights if they are not already downloaded
         if not os.path.exists(self.det_path):
-            self._download_file(self.det_url, self.MODEL_DIR)
+            self._download_file(self.det_url, self.det_path)
         if not os.path.exists(self.rec_path):
-            self._download_file(self.rec_url, self.MODEL_DIR)
+            self._download_file(self.rec_url, self.rec_path)
 
     # https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/doc/doc_en/models_list_en.md#1.2
     def scan_img(self, img):
